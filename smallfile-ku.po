@@ -42,6 +42,10 @@ msgstr ""
 msgid "AMP Overview"
 msgstr ""
 
+#: /views/partials/format-visuals/websites.j2:103
+msgid "A screenshot showing amp-sidebarOO."
+msgstr ""
+
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
 msgstr ""
