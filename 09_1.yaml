@@ -6,6 +6,7 @@ my:
        - eggs
        - sugar
        - flour
+       - drin
       cream:
         - sugar
         - milk
